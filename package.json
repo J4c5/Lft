@@ -1,0 +1,38 @@
+{
+  "name": "@tr4v/lft",
+  "version": "1.0.4",
+  "description": "phishing script kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4c5/Lft.git"
+  },
+  "keywords": [
+    "phishing",
+    "script-kit",
+    "hacking"
+  ],
+  "author": "J4c5",
+  "bin": {
+    "lft-test": "./scripts/test.js",
+    "lft-analyzer": "./scripts/analyzer.js",
+    "lft-clone": "./scripts/clone.js",
+    "lft-webserver": "./scripts/webserver.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J4c5/Lft/issues"
+  },
+  "homepage": "https://github.com/J4c5/Lft#readme",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "express": "^4.17.3",
+    "fast-mhtml": "^2.1.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "localtunnel": "^2.0.2",
+    "puppeteer": "^13.5.2"
+  }
+}
