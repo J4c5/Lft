@@ -44,5 +44,3 @@ npm i @tr4v/lft
 </details>
 
 ----
-# examples
-[clone facebook login page](https://github.com/J4c5/Lft/blob/main/examples/facebook.md)
