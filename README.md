@@ -16,7 +16,8 @@ npm i @tr4v/lft
   _CLI to parse html code, and code manipulation_
   
   ### commands
-  - remove [options] <file>
+  - remove [options] <url>
+  - add [options] <script-html-code>
   - modify [options] <file>
   - mount  <mhtml/file>
   
