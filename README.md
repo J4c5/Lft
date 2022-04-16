@@ -1,4 +1,4 @@
-# (L)ogin (F)ishing (T)ool
+![](https://github.com/J4c5/Lft/raw/assets/Silton%20Studios.png)
 ```sh
 npm i @tr4v/lft
 ```
