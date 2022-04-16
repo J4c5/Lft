@@ -1,6 +1,6 @@
 ![](https://github.com/J4c5/Lft/raw/assets/Silton%20Studios.png)
 ```sh
-npm i @tr4v/lft
+npm i @tr4v/lft -g
 ```
 ### Login Fishing Tool, (Lft) and a script kit for phishing login pages
 
