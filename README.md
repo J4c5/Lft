@@ -5,7 +5,7 @@ npm i @tr4v/lft -g
 ### Login Fishing Tool, (Lft) and a script kit for phishing login pages
 
 > **legal notice terms**
-> lft, author or maintainer of this tool is not responsible for **damages**, use at your own **risk**.
+> ⚠️ lft, author or maintainer of this tool is not responsible for **damages**, use at your own **risk**.
 
 ## documentation 
 ### scripts / tools
