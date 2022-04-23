@@ -13,7 +13,6 @@
   ],
   "author": "J4c5",
   "bin": {
-    "lft-test": "./scripts/test.js",
     "lft-analyzer": "./scripts/analyzer.js",
     "lft-clone": "./scripts/clone.js",
     "lft-webserver": "./scripts/webserver.js"
